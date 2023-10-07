@@ -1,0 +1,98 @@
+#Education{
+    background-color: #FDE1D9;
+}
+#Education .btn1{
+    color: #EF484D;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #FAC3B7;
+}
+#Education .btn2{
+    margin-top: 5px;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 140px;
+    height: 40px;
+    background-color: #EF484D;
+}
+#Education h2{
+    color: #EF484D;
+}
+
+
+#Health{
+    background-color: #DADDEF;
+}
+#Health .btn1{
+    color: #4F69B1;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #B7BCDF;
+}
+#Health .btn2{
+    margin-top: 5px;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 140px;
+    height: 40px;
+    background-color: #3E60AD;
+}
+#Health h2{
+    color: #3E60AD;
+}
+
+
+#Clothing{
+    background-color: #E8F3DE;
+}
+#Clothing .btn1{
+    color: #79C043;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #D1E7BD;
+}
+#Clothing .btn2{
+    margin-top: 5px;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 140px;
+    height: 40px;
+    background-color: #79C043;
+}
+#Clothing h2{
+    color: #79C043;
+}
+
+
+#Food{
+    background-color: #FDE6DA;
+}
+#Food .btn1{
+    color: #F37048;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #FCCDB8;
+}
+#Food .btn2{
+    margin-top: 5px;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 140px;
+    height: 40px;
+    background-color: #F37048;
+}
+#Food h2{
+    color: #F37048;
+}

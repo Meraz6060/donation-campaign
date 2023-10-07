@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "category": "Health",
+    "title": "Clean water for children",
+    "description": "Regular exercise is essential for maintaining good health. It helps improve cardiovascular fitness, build muscle strength, and boost overall well-being.",
+    "image_url": "https://i.ibb.co/RcGWPJS/Health.png",
+    "price": 599.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#007bff"
+  },
+  {
+    "id": 2,
+    "category": "Education",
+    "title": "Good education",
+    "description": "A good education sparks innovation and fuels progress. It empowers individuals to question the status quo, challenge conventions, and contribute to the betterment of humanity. From scientific breakthroughs to social reforms, the impact of education on the advancement of society cannot be overstated. Access to quality education should be a fundamental right, not a privilege. It should be accessible to all, regardless of their background or circumstances. When education becomes inclusive, it becomes a powerful force for breaking the cycle of poverty and inequality.",
+    "image_url": "https://i.ibb.co/k19m7c3/Education.png",
+    "price": 1099.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#007bff"
+  },
+  {
+    "id": 3,
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "description": "A clothing donation drive is a compassionate and sustainable effort to collect and distribute clothing to those in need. It reflects the values of generosity, community engagement, and environmental responsibility, making it a noble endeavor that benefits both the giver and the receiver.",
+    "image_url": "https://i.ibb.co/dPJdkPN/Clothing.png",
+    "price": 1090.99,
+    "textColor": "#000000",
+    "backgroundColor": "#28a745"
+    
+  },
+  {
+    "id": 4,
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "description": "A balanced diet is crucial for a healthy lifestyle. Eating a variety of nutrient-rich foods provides the body with the necessary vitamins and minerals.",
+    "image_url": "https://i.ibb.co/JcMXq4h/Food.png",
+    "price": 140.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#fd7e14"
+  },
+  {
+    "id": 5,
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "description": "A balanced diet is crucial for a healthy lifestyle. Eating a variety of nutrient-rich foods provides the body with the necessary vitamins and minerals.",
+    "image_url": "https://i.ibb.co/JcMXq4h/Food.png",
+    "price": 140.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#fd7e14"
+  },
+  {
+    "id": 6,
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "description": "A clothing donation drive is a compassionate and sustainable effort to collect and distribute clothing to those in need. It reflects the values of generosity, community engagement, and environmental responsibility, making it a noble endeavor that benefits both the giver and the receiver.",
+    "image_url": "https://i.ibb.co/dPJdkPN/Clothing.png",
+    "price": 1090.99,
+    "textColor": "#000000",
+    "backgroundColor": "#28a745"
+  },
+  {
+    "id": 7,
+    "category": "Education",
+    "title": "Good education",
+    "description": "A good education sparks innovation and fuels progress. It empowers individuals to question the status quo, challenge conventions, and contribute to the betterment of humanity. From scientific breakthroughs to social reforms, the impact of education on the advancement of society cannot be overstated. Access to quality education should be a fundamental right, not a privilege. It should be accessible to all, regardless of their background or circumstances. When education becomes inclusive, it becomes a powerful force for breaking the cycle of poverty and inequality.",
+    "image_url": "https://i.ibb.co/k19m7c3/Education.png",
+    "price": 1099.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#007bff"
+  },
+  {
+    "id": 8,
+    "category": "Health",
+    "title": "Clean water for children",
+    "description": "Regular exercise is essential for maintaining good health. It helps improve cardiovascular fitness, build muscle strength, and boost overall well-being.",
+    "image_url": "https://i.ibb.co/RcGWPJS/Health.png",
+    "price": 599.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#007bff"
+  },
+  {
+    "id": 9,
+    "category": "Health",
+    "title": "Clean water for children",
+    "description": "Regular exercise is essential for maintaining good health. It helps improve cardiovascular fitness, build muscle strength, and boost overall well-being.",
+    "image_url": "https://i.ibb.co/RcGWPJS/Health.png",
+    "price": 599.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#007bff"
+  },
+  {
+    "id": 10,
+    "category": "Education",
+    "title": "Good education",
+    "description": "A good education sparks innovation and fuels progress. It empowers individuals to question the status quo, challenge conventions, and contribute to the betterment of humanity. From scientific breakthroughs to social reforms, the impact of education on the advancement of society cannot be overstated. Access to quality education should be a fundamental right, not a privilege. It should be accessible to all, regardless of their background or circumstances. When education becomes inclusive, it becomes a powerful force for breaking the cycle of poverty and inequality.",
+    "image_url": "https://i.ibb.co/k19m7c3/Education.png",
+    "price": 1099.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#007bff"
+  },
+  {
+    "id": 11,
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "description": "A clothing donation drive is a compassionate and sustainable effort to collect and distribute clothing to those in need. It reflects the values of generosity, community engagement, and environmental responsibility, making it a noble endeavor that benefits both the giver and the receiver.",
+    "image_url": "https://i.ibb.co/dPJdkPN/Clothing.png",
+    "price": 1090.99,
+    "textColor": "#000000",
+    "backgroundColor": "#28a745"
+  },
+  {
+    "id": 12,
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "description": "A balanced diet is crucial for a healthy lifestyle. Eating a variety of nutrient-rich foods provides the body with the necessary vitamins and minerals.",
+    "image_url": "https://i.ibb.co/JcMXq4h/Food.png",
+    "price": 140.99,
+    "textColor": "#ffffff",
+    "backgroundColor": "#fd7e14"
+
+    
+  }
+]
